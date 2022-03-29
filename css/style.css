@@ -191,7 +191,11 @@ body {
         color:#23527c;
         margin-top: 10px;
     }
+    .timeline-event-copy ul{
+        padding: 0px;
     }
+
+ }
 
 @-webkit-keyframes rotation {
     from {
