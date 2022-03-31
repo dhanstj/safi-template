@@ -1001,6 +1001,8 @@ fieldset {
         z-index: 1;
         background-image:url(../img/photo.jpg);
         background-repeat: no-repeat;
+	background-image: 100%;
+    
     }
     
     .portfolio .categories-grid .categories ul li {
